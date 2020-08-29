@@ -5,4 +5,3 @@ def meal_choice(veg1,veg2,protein = 'tofu')
   puts message2
   return message2
 end
-binding.pry
